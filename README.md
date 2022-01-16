@@ -1,3 +1,6 @@
+# Note
+May or may not work. Use at your own discretion. I may update the code in the near future.
+
 # track-my-manhwa
 Some python scripts to track manhwa that you are interested in.
 
